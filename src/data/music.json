@@ -1,0 +1,164 @@
+{
+    "inland": [
+        {
+            "id": 1,
+            "src": "../../static/data/横冲直撞.mp3",
+            "img": "../../static/imgs/hcy.jpg",
+            "title": "横冲直撞",
+            "content": ""
+        },
+        {
+            "id": 2,
+            "src": "../../static/data/刘德华 - 冰雨(Live) - live.mp3",
+            "img": "../../static/imgs/ldh.jpg",
+            "title": "刘德华 - 冰雨(Live) - live",
+            "content": ""
+        },
+        {
+            "id": 3,
+            "src": "../../static/data/张杰 - 爱到最美是陪伴 [mqms2].mp3",
+            "img": "../../static/imgs/zj.jpg",
+            "title": "张杰 - 爱到最美是陪伴 [mqms2]",
+            "content": ""
+        },
+        {
+            "id": 4,
+            "src": "../../static/data/我好想你 - 苏打绿.mp3",
+            "img": "../../static/imgs/sdl.jpg",
+            "title": "我好想你 - 苏打绿",
+            "content": ""
+        },
+        {
+            "id": 5,
+            "src": "../../static/data/丫头 - 王童语.mp3",
+            "img": "../../static/imgs/wty.jpg",
+            "title": "丫头 - 王童语",
+            "content": ""
+        },
+        {
+            "id": 6,
+            "src": "../../static/data/美人鱼 - 林俊杰.mp3",
+            "img": "../../static/imgs/ljj.jpg",
+            "title": "美人鱼 - 林俊杰",
+            "content": ""
+        },
+        {
+            "id": 7,
+            "src": "../../static/data/骗自己PT.2 (Remix-下酒菜) - AY楊佬叁,Noor-99.mp3",
+            "img": "../../static/imgs/AY.jpg",
+            "title": "骗自己PT.2 (Remix-下酒菜) - AY楊佬叁,Noor-99",
+            "content": ""
+        }
+    ],
+    "Gossip": [
+        {
+            "id": 1,
+            "src": "../../static/data/The truth that you leave - Pianoboy.mp3",
+            "img": "../../static/imgs/ljj.jpg",
+            "title": "The truth that you leave - Pianoboy",
+            "content": ""
+        },
+        {
+            "id": 2,
+            "src": "../../static/data/Lemon Tree - Fool's Garden.mp3",
+            "img": "../../static/imgs/wty.jpg",
+            "title": "Lemon Tree - Fool's Garden",
+            "content": ""
+        },
+        {
+            "id": 3,
+            "src": "../../static/data/Luv Letter - DJ Okawari.mp3",
+            "img": "../../static/imgs/zj.jpg",
+            "title": "Luv Letter - DJ Okawari",
+            "content": ""
+        },
+        {
+            "id": 4,
+            "src": "../../static/data/Time - MKJ.mp3",
+            "img": "../../static/imgs/ljj.jpg",
+            "title": "Time - MKJ",
+            "content": ""
+        },
+        {
+            "id": 5,
+            "src": "../../static/data/丫头 - 王童语.mp3",
+            "img": "../../static/imgs/wty.jpg",
+            "title": "丫头 - 王童语",
+            "content": ""
+        }
+    ],
+    "occiden": [
+        {
+            "id": 1,
+            "src": "../../static/data/天意(Live) - 刘德华.mp3",
+            "img": "../../static/imgs/ldh.jpg",
+            "title": "天意(Live) - 刘德华",
+            "content": ""
+        },
+        {
+            "id": 2,
+            "src": "../../static/data/Lemon Tree - Fool's Garden.mp3",
+            "img": "../../static/imgs/zj.jpg",
+            "title": "Lemon Tree - Fool's Garden",
+            "content": ""
+        },
+        {
+            "id": 3,
+            "src": "../../static/data/Luv Letter - DJ Okawari.mp3",
+            "img": "../../static/imgs/ldh.jpg",
+            "title": "Luv Letter - DJ Okawari",
+            "content": ""
+        },
+        {
+            "id": 4,
+            "src": "../../static/data/Time - MKJ.mp3",
+            "img": "../../static/imgs/ljj.jpg",
+            "title": "Time - MKJ",
+            "content": ""
+        },
+        {
+            "id": 5,
+            "src": "../../static/data/丫头 - 王童语.mp3",
+            "img": "../../static/imgs/wty.jpg",
+            "title": "丫头 - 王童语",
+            "content": "hello"
+        }
+    ],
+    "KKC": [
+        {
+            "id": 1,
+            "src": "../../static/data/Lemon Tree - Fool's Garden.mp3",
+            "img": "../../static/imgs/ljj.jpg",
+            "title": "Lemon Tree - Fool's Garden",
+            "content": ""
+        },
+        {
+            "id": 2,
+            "src": "../../static/data/天意(Live) - 刘德华.mp3",
+            "img": "../../static/imgs/ldh.jpg",
+            "title": "天意(Live) - 刘德华",
+            "content": ""
+        },
+        {
+            "id": 3,
+            "src": "../../static/data/Luv Letter - DJ Okawari.mp3",
+            "img": "../../static/imgs/ljj.jpg",
+            "title": "Luv Letter - DJ Okawari",
+            "content": ""
+        },
+        {
+            "id": 4,
+            "src": "../../static/data/Time - MKJ.mp3",
+            "img": "../../static/imgs/zj.jpg",
+            "title": "Time - MKJ",
+            "content": ""
+        },
+        {
+            "id": 5,
+            "src": "../../static/data/丫头 - 王童语.mp3",
+            "img": "../../static/imgs/ljj.jpg",
+            "title": "丫头 - 王童语",
+            "content": ""
+        }
+    ]
+}

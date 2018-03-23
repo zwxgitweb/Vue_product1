@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "src": "../../static/imgs/food1.png",
+        "title": "1",
+        "content": "hello",
+        "price": 123,
+        "isChecked": false
+    },
+    {
+        "id": 2,
+        "src": "../../static/imgs/food2.png",
+        "title": "2",
+        "content": "hello",
+        "price": 65,
+        "isChecked": false
+    },
+    {
+        "id": 3,
+        "src": "../../static/imgs/food3.png",
+        "title": "3",
+        "content": "hello",
+        "price": 45,
+        "isChecked": false
+    },
+    {
+        "id": 4,
+        "src": "../../static/imgs/food4.png",
+        "title": "4",
+        "content": "hello",
+        "price": 343,
+        "isChecked": false
+    },
+    {
+        "id": 5,
+        "src": "../../static/imgs/food5.png",
+        "title": "5",
+        "content": "hello",
+        "price": 45,
+        "isChecked": false
+    }
+]
